@@ -11,13 +11,12 @@ Data Scientist and Software Engineer
 <i class="fa fa-github"></i> <a href="http://github.com/nleiby">nleiby</a>
 |
 <i class="fa fa-google"></i> <a href="https://scholar.google.com/citations?user=JxQCo40AAAAJ">scholar</a>
-
 </div>
 
 ## Selected Employment
 
 `2014-` 
-__Kyruus__ Data Scientist and Technical Lead
+__Kyruus__ _Data Scientist and Technical Lead_
 
 Wrote code, developed data infrastructure, designed experiments, and analyzed statistics to help health systems match patients with providers. 
 
@@ -30,6 +29,44 @@ Built interactive visualizations to illustrate supply and demand for healthcare 
 Implemented unsupervised machine learning techniques to recommend similar providers to patients
 
 Designed ElasticSearch queries to optimize our search results
+
+`2010-2014`
+__Harvard University__ _PhD Research_ 
+
+Modeled, predicted, and experimentally tested the evolution of metabolic networks and behavior in microbial communities for dissertation research
+
+Ran independent, data-heavy research projects from start to finish, including experimental design, simulations and predictive modeling, data collection, analysis, and presentation
+
+Published quality, peer-reviewed science in high-impact journals (see publications)
+
+Communicated research results effectively, winning awards for talks and posters
+
+`2013`
+__Harvard University__ _Teaching Assistant_
+
+Taught sections of 'Mathematics in Biology', a graduate-level course
+
+
+`2008-2010`
+__Duke University__ _Laboratory Manager, Department of Biology_
+
+Supervised team of 10 graduate teaching assistants and lab prep staff for 150-student lab course 
+
+Instructed students in small groups and in full course lectures on theory and experimental skills
+
+Developed evaluation methods and rubrics for quizzes, writing assignments, worksheets
+
+`2007`
+__United Nations Industrial Development Organization (Beijing)__ _Research Fellow_
+
+Analyzed trends in Chinese biotechnology industry for UNIDO reports to enhance understanding of high-tech industries among non-technical bureaucrats
+
+Wrote and edited sections of long-term policy and strategy documents
+
+`2003-2007`
+__Oak Ridge National Laboratory, Lawrence Berkeley National Laboratory, MIT, Harvard Medical School__
+
+Various research assistantships in mineral physics, robotic movement, dengue virus pathogenesis, and DNA damage repair
 
 ## Education
 
@@ -45,7 +82,7 @@ __Massachusetts Institute of Technology__ BS Biology
 
 GPA 4.6/5.0 (4.8/5.0 as upperclassman), 1600 SAT, 1600 GRE
 
-### Posters
+## Presentations
 
 `2014` 
 Winter Quantitative Biology Conference (Best Poster winner)
@@ -58,7 +95,7 @@ American Society of Microbiology General Meeting (Outstanding Poster winner)
 
 ## Publications
 
-<!-- ### Journals -->
+### Journals
 
 `2014`
 __N Leiby__, CJ Marx. Metabolic erosion primarily through mutation accumulation, and not tradeoffs, drives limited evolution of substrate specificity in Escherichia coli. _PLoS Biology_ 12 (2), e1001789
@@ -75,6 +112,11 @@ __N Leiby__, WR Harcombe, CJ Marx, Multiple long-term, experimentally-evolved po
 
 `2011`
 TD Lieberman, JB Michel, M Aingaran, G Potter-Bynoe, D Roux, MR Davis, D Skurnik, __N Leiby__, JJ LiPuma, JB Goldberg, AJ McAdam, GP Priebe, R Kishony. Parallel bacterial evolution within multiple patients identifies candidate pathogenicity genes. _Nature Genetics_ 43 (12), 1275-1280
+
+### Non-Academic
+
+`2011`
+<A HREF = "http://www.seriouseats.com/user/profile/nickleiby">_Serious Beer_</A> columnist for <A HREF="http://www.seriouseats.com">_seriouseats.com_</A>.  Wrote a series of 10 articles discussing different beer styles and reviewing examples
 
 ## Technical skills
 
@@ -114,6 +156,16 @@ Foo Bar Baz
 2004 MIT Class of 1950 Academic Scholarship
 
 2004 John Reed undergraduate research grant
+
+## Interests
+
+* Rock climbing
+* Bicycle camping
+* Brewing (and <A HREF="http://www.seriouseats.com/user/profile/nickleiby">reviewing</A>) beer
+* Board games
+* Cooking
+* Science fiction
+
 
 ## References
 
