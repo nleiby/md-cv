@@ -35,7 +35,7 @@ Implemented unsupervised machine learning techniques to recommend similar provid
 
 Designed ElasticSearch queries to optimize our search results
 
-`2010-2014`
+`2010-14`
 __Harvard University__ _PhD Research_ 
 
 Modeled, predicted, and experimentally tested the evolution of metabolic networks and behavior in microbial communities for dissertation research
@@ -52,7 +52,7 @@ __Harvard University__ _Teaching Assistant_
 Taught sections of 'Mathematics in Biology', a graduate-level course
 
 
-`2008-2010`
+`2008-10`
 __Duke University__ _Laboratory Manager, Department of Biology_
 
 Supervised team of 10 graduate teaching assistants and lab prep staff for 150-student lab course 
@@ -68,7 +68,7 @@ Analyzed trends in Chinese biotechnology industry for UNIDO reports to enhance u
 
 Wrote and edited sections of long-term policy and strategy documents
 
-`2003-2007`
+`2003-07`
 __Oak Ridge National Laboratory, Lawrence Berkeley National Laboratory, MIT, Harvard Medical School__
 
 Various research assistantships in mineral physics, robotic movement, dengue virus pathogenesis, and DNA damage repair
@@ -167,9 +167,9 @@ TD Lieberman, JB Michel, M Aingaran, G Potter-Bynoe, D Roux, MR Davis, D Skurnik
 * Science fiction
 
 
-## References
+<!-- ## References
 
-Available on request.
+Available on request.  -->
 
 <!-- ### Footer
 

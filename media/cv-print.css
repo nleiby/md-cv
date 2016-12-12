@@ -54,9 +54,10 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 9pt;
+	font-size: 12pt;
 	line-height: 1.35em;
-	font-family: "Open sans", sans-serif;
+	/*font-family: "Open sans", sans-serif;*/
+	 font-family: Verdana, sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -72,7 +73,7 @@ p {
 code {
 	font: normal normal;
 	font-size: 70%;
-	font-family: Menlo, monospace,s ans-serif;
+	font-family: Menlo, monospace, sans-serif;
 	color: #ddd;
 }
 
@@ -86,8 +87,8 @@ ul {
 	position: relative;
 	left: 28%;
 	width: 65%;
-	margin-bottom: 1em;
-	margin-top: 2em;
+	margin-bottom: 0.5em;
+	margin-top: 1em;
 	columns: 3;
 	-webkit-columns: 3;
 	-moz-columns: 3;
@@ -118,27 +119,15 @@ h1 {
 	left: 28%;
 }
 
-h1+p {
-	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
-	line-height: 2em;
-	margin-top: 0.1em;
-	margin-bottom: 0em !important;
-}
-
 h2 {
 	font-size: 1.1em;
-	color: #a00;
-	margin-top: 1em;
+	 color: #a00;
+	/*color: #1D49A0;*/
+	margin-top: 0.5em;
 	position: relative;
-	top: 1.5em;
-	text-align: right;
-	width: 18%;
-}
-
-h2+p {
-	margin-top: 2.1em;
+	top: 1em;
+	text-align: center;
+	width: 15%;
 }
 
 h3 {
@@ -147,9 +136,9 @@ h3 {
 	line-height: 2em;
 	color: #ccc;
 	position: relative;
-	top: 1.6em;
-	text-align: right;
-	width: 20%;
+	top: 1em;
+	text-align: center;
+	width: 15%;
 }
 
 a {
@@ -175,8 +164,8 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	font-style: italic;
+	/*color: #2d4e5e*/
 }
 
 strong {
@@ -189,13 +178,12 @@ strong {
 }
 
 
-#projects {
-	 /* page-break-before: always; */
+#presentations {
+    page-break-before: always;
+	position: relative;
+
 }
 
-#placements{
-      /* page-break-before: always; */
-}
 
 .footer {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
@@ -203,7 +191,7 @@ strong {
     column-count: 3;
 		position: relative;
 		left: 33%;
-		margin-top: 2em;
+		margin-top: 1em;
 		margin-bottom: 3em;
 		margin-right: 0;
 		width: 65%;

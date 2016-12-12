@@ -69,7 +69,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 70%;
 	font-family: Menlo, monospace, sans-serif;
 	color: #aaa;
 }
@@ -136,9 +136,9 @@ h2 {
 	font-size: 1.1em;
 	 color: #a00;
 	/*color: #1D49A0;*/
-	margin-top: 2em;
+	margin-top: 0.5em;
 	position: relative;
-	top: 1.4em;
+	top: 1em;
 	text-align: right;
 	width: 15%;
 }
@@ -200,7 +200,17 @@ strong {
 		width: 65%;
 }
 
-#technical
+/*#content{*/
+    /*page-break-before: always;*/
+	/*position: relative;*/
+
+/*}*/
+
+#publications {
+    page-break-before: always;
+	position: relative;
+
+}
 
 /*
 @media only screen and (max-width: 480px) {
