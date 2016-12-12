@@ -11,7 +11,12 @@ Data Scientist and Software Engineer
 <i class="fa fa-github"></i> <a href="http://github.com/nleiby">nleiby</a>
 |
 <i class="fa fa-google"></i> <a href="https://scholar.google.com/citations?user=JxQCo40AAAAJ">scholar</a>
+<BR>
+<i class="fa fa-phone"></i> (865)456-4049
+|
+<i class="fa fa-map-marker"></i> 7 W Myrtle St. Alexandria, VA 22301
 </div>
+
 
 ## Selected Employment
 
@@ -131,11 +136,6 @@ TD Lieberman, JB Michel, M Aingaran, G Potter-Bynoe, D Roux, MR Davis, D Skurnik
 * Experimental design, hypothesis testing, classification and clustering, predictive models
 * Javascript, D3 
 * HTML and CSS
-
-
-## Projects
-
-Foo Bar Baz
 
 ## Awards
 
